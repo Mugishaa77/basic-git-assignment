@@ -1,1 +1,1 @@
-THis is a basic git assignment
+This is a basic git assignment
